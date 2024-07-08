@@ -13,6 +13,7 @@ ecosystem of discussions through comments. Understanding the sentiment of commen
 entities, such as video content or creators, is crucial for gauging audience reception and shaping content
 strategies effectively. Utilizing natural language processing (NLP) techniques, this project aims to analyze
 YouTube comments to discern sentiment towards targeted entities.
+
 Objective:
 The objective of this internship project is to perform entity-level sentiment analysis on YouTube
 comments using provided training and validation datasets. Given a comment and a specified entity (e.g.,
